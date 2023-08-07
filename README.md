@@ -18,7 +18,7 @@ FrontEnd - HTML,CSS,JS,Bootstrap
 
 
 
-## Screen Shots
+## Screenshots
 
 ![Alt text](./ss/ss1.png?raw=true "Optional Title")
 
